@@ -2,3 +2,4 @@
 - creating virtualhost
 - restarting apache
 - php support enabled
+- mariadb installed
